@@ -1,3 +1,5 @@
+// 100 - 3n + 1 Problem
+
 #include<bits/stdc++.h>
 using namespace std;
 
